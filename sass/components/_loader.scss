@@ -1,0 +1,14 @@
+#loading-spinner {
+  width: 80px;
+  height: 80px;
+  margin: 20px auto;
+  display: block;
+  
+  path {
+    fill: #E89B36;
+  }
+}
+
+#loading-spinner.hidden {
+  display: none;
+}
